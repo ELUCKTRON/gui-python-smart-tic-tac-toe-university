@@ -5,6 +5,22 @@ Built using **Tkinter**, this interactive Python project pits you against a **ru
 
 ---
 
+## 📸 Screenshots
+
+- 🧭 Game Start  
+  ![Game Start](./assets/begining.png)
+
+- 🕹️ During Gameplay  
+  ![During Game](./assets/during.png)
+
+- 🧠 Bot Victory  
+  ![AI Win](./assets/ai-win.png)
+
+- 👤 Player Victory  
+  ![User Win](./assets/user-win.png)
+
+---
+
 ## ✨ Features
 
 - 🧠 **Rule-based bot logic** — not random, actually strategic!
