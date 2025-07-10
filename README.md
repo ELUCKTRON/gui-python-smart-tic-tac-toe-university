@@ -8,16 +8,17 @@ Built using **Tkinter**, this interactive Python project pits you against a **ru
 ## 📸 Screenshots
 
 - 🧭 Game Start  
-  ![Game Start](./assets/begining.png)
+  <img src="./assets/begining.png" alt="Game Start" width="300"/>
 
 - 🕹️ During Gameplay  
-  ![During Game](./assets/during.png)
+  <img src="./assets/during.png" alt="During Game" width="300"/>
 
 - 🧠 Bot Victory  
-  ![AI Win](./assets/ai-win.png)
+  <img src="./assets/ai-win.png" alt="AI Win" width="300"/>
 
 - 👤 Player Victory  
-  ![User Win](./assets/user-win.png)
+  <img src="./assets/user-win.png" alt="User Win" width="300"/>
+
 
 ---
 
